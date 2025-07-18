@@ -1,0 +1,7 @@
+.env
+.env.example
+.env.test
+.env.development
+.vscode/
+.idea/
+node_modules/
